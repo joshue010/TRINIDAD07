@@ -1,0 +1,63 @@
+img{
+	height: 350px;
+	width: 350px;
+	margin-left: 380px;
+	margin-right: 380px;
+}
+#body1{
+	background-image: url(https://media0.giphy.com/media/s1P4kzgXdyZK8/giphy.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: fixed;
+}
+#body2{
+	background-image: url(https://thumbs.gfycat.com/CarelessTenseJunco-size_restricted.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+
+}
+#body4{
+	background-image: url(https://media.giphy.com/media/fBuIrzvXJKDle/giphy.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+#body3{
+	background-image: url(https://i.pinimg.com/originals/a5/93/1b/a5931b9fec067502ab28df3f9e70b4f3.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+nav{
+	display: flex;
+	flex-wrap: wrap;
+}
+nav a{
+	float: left;
+	color: #B8860B;
+	padding: 15px 20px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+}
+nav a:hover{
+	background-color: lightgray;
+	color: #B8860B;
+}
+.welcome{
+  color: #B8860B;
+  margin: 20px;
+  padding: 50px;
+  font-size: 50px;
+  text-align: center;
+}
+.schoolwell{
+	text-align: center;
+	font-size: 20px;
+	font-family: serif;
+	padding: 5px;
+	border: 5px solid #B8860B;
+	color: #B8860B;
+	background-color: rgb(205, 221, 226, .8);
+}
